@@ -1,0 +1,11 @@
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\DATOS\bin\Debug\DATOS.dll
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\DATOS\obj\Debug\DATOS.dll
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\DATOS\obj\Debug\DATOS.pdb
+M:\Programacion\IVSemestre\C#\SOAT\DATOS\bin\Debug\DATOS.dll
+M:\Programacion\IVSemestre\C#\SOAT\DATOS\bin\Debug\DATOS.pdb
+M:\Programacion\IVSemestre\C#\SOAT\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+M:\Programacion\IVSemestre\C#\SOAT\DATOS\obj\Debug\DATOS.dll
+M:\Programacion\IVSemestre\C#\SOAT\DATOS\obj\Debug\DATOS.pdb

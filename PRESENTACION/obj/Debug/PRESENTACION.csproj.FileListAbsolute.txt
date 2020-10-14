@@ -1,0 +1,29 @@
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\obj\Debug\PRESENTACION.csprojAssemblyReference.cache
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\bin\Debug\LOGICA.dll
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\bin\Debug\DATOS.dll
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\bin\Debug\LOGICA.pdb
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\bin\Debug\DATOS.pdb
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\obj\Debug\PRESENTACION.Mantenimientos.frmVehiculos.resources
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\bin\Debug\PRESENTACION.exe
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\bin\Debug\PRESENTACION.pdb
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\bin\Debug\LOGICA.dll
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\bin\Debug\DATOS.dll
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\bin\Debug\LOGICA.pdb
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\bin\Debug\DATOS.pdb
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\obj\Debug\PRESENTACION.csprojAssemblyReference.cache
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\obj\Debug\PRESENTACION.Mantenimientos.frmVehiculos.resources
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\obj\Debug\PRESENTACION.exe
+M:\Programacion\IVSemestre\C#\SOAT\PRESENTACION\obj\Debug\PRESENTACION.pdb

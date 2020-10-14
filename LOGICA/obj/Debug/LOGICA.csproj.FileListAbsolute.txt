@@ -1,0 +1,17 @@
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\LOGICA\bin\Debug\DATOS.dll
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\LOGICA\bin\Debug\DATOS.pdb
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\LOGICA\obj\Debug\LOGICA.csprojAssemblyReference.cache
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\LOGICA\obj\Debug\LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\LOGICA\obj\Debug\LOGICA.csproj.CopyComplete
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\Hogar\Documents\Visual Studio 2019\Projectos\SOAT\LOGICA\obj\Debug\LOGICA.pdb
+M:\Programacion\IVSemestre\C#\SOAT\LOGICA\bin\Debug\LOGICA.dll
+M:\Programacion\IVSemestre\C#\SOAT\LOGICA\bin\Debug\LOGICA.pdb
+M:\Programacion\IVSemestre\C#\SOAT\LOGICA\bin\Debug\DATOS.dll
+M:\Programacion\IVSemestre\C#\SOAT\LOGICA\bin\Debug\DATOS.pdb
+M:\Programacion\IVSemestre\C#\SOAT\LOGICA\obj\Debug\LOGICA.csprojAssemblyReference.cache
+M:\Programacion\IVSemestre\C#\SOAT\LOGICA\obj\Debug\LOGICA.csproj.CopyComplete
+M:\Programacion\IVSemestre\C#\SOAT\LOGICA\obj\Debug\LOGICA.dll
+M:\Programacion\IVSemestre\C#\SOAT\LOGICA\obj\Debug\LOGICA.pdb
